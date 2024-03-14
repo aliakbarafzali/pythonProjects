@@ -1,1 +1,1 @@
-All of my projects are stored here. 
+All of my python projects are stored here. 
